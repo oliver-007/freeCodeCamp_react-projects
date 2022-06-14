@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/freeCodeCamp_react-projects/14-Cart/static/css/main.8db4b5e8.chunk.css",
+    "main.js": "/freeCodeCamp_react-projects/14-Cart/static/js/main.15eb7abd.chunk.js",
+    "main.js.map": "/freeCodeCamp_react-projects/14-Cart/static/js/main.15eb7abd.chunk.js.map",
+    "runtime-main.js": "/freeCodeCamp_react-projects/14-Cart/static/js/runtime-main.daaeb2fa.js",
+    "runtime-main.js.map": "/freeCodeCamp_react-projects/14-Cart/static/js/runtime-main.daaeb2fa.js.map",
+    "static/js/2.33b3b3b7.chunk.js": "/freeCodeCamp_react-projects/14-Cart/static/js/2.33b3b3b7.chunk.js",
+    "static/js/2.33b3b3b7.chunk.js.map": "/freeCodeCamp_react-projects/14-Cart/static/js/2.33b3b3b7.chunk.js.map",
+    "index.html": "/freeCodeCamp_react-projects/14-Cart/index.html",
+    "precache-manifest.9dbe16f7c7fc6cafac16d424043fcdfc.js": "/freeCodeCamp_react-projects/14-Cart/precache-manifest.9dbe16f7c7fc6cafac16d424043fcdfc.js",
+    "service-worker.js": "/freeCodeCamp_react-projects/14-Cart/service-worker.js",
+    "static/css/main.8db4b5e8.chunk.css.map": "/freeCodeCamp_react-projects/14-Cart/static/css/main.8db4b5e8.chunk.css.map",
+    "static/js/2.33b3b3b7.chunk.js.LICENSE.txt": "/freeCodeCamp_react-projects/14-Cart/static/js/2.33b3b3b7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.daaeb2fa.js",
+    "static/js/2.33b3b3b7.chunk.js",
+    "static/css/main.8db4b5e8.chunk.css",
+    "static/js/main.15eb7abd.chunk.js"
+  ]
+}
